@@ -1,5 +1,5 @@
 # Assignment 1
 
-**Student Name:** Your Name Here
+**Student Name:** Faisal Pindar
 
-**Student Number:** YourBannerIDHere
+**Student Number:** 100629476
